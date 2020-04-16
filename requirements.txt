@@ -1,0 +1,5 @@
+tensorflow==1.13.1
+dlib==19.4
+imutils
+numpy
+opencv-python
